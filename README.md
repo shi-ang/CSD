@@ -1,8 +1,7 @@
 # Conformal Survival Distribution
 
 This official repository contains the code for the ICML 2024 paper: 
-"Conformalized Survival Distributions: A Generic Post-Process to Increase Calibration".
-
+"Conformalized Survival Distributions: A Generic Post-Process to Increase Calibration", [link](https://arxiv.org/abs/2405.07374).
 
 Discrimination and calibration represent two important properties of survival analysis, with the
 former assessing the model’s ability to accurately rank subjects and the latter evaluating the alignment of predicted outcomes with actual events.
@@ -73,7 +72,7 @@ To be specific, go to the path `[env_path]/lib/python3.11/site-packages/pycox/mo
 
 # Running the Experiments
 
-Using the provided codes, reader can run the experiments on a few datasets: `VALCT`, `PBC`, `gbsg`, `SUPPORT`
+Using the provided codes, reader can run the experiments on a few datasets: `VALCT`, `PBC`, `gbsg`, `NACD`,  `SUPPORT`.
 
 To run the experiments, you can use the following scripts:
 ```bash
