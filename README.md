@@ -1,5 +1,18 @@
 # Conformal Survival Distribution
 
+
+---
+> **❗⚠️❗⚠️❗⚠️❗⚠️❗ IMPORTANT NOTE ❗⚠️❗⚠️❗⚠️❗⚠️❗⚠️❗**
+>
+> ***The Conformal Survival Distribution (CSD) method has been integrated into this repository.***:
+> [https://github.com/shi-ang/MakeSurvivalCalibratedAgain](https://github.com/shi-ang/MakeSurvivalCalibratedAgain).
+> 
+> **This repository is no longer maintained.** ***Please use the code in the above link.*** 
+> The repository is kept for legacy purposes.
+
+---
+
+
 This official repository contains the code for the ICML 2024 paper: 
 "Conformalized Survival Distributions: A Generic Post-Process to Increase Calibration", [link](https://arxiv.org/abs/2405.07374).
 
